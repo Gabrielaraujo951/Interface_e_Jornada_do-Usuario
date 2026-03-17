@@ -1,49 +1,31 @@
 # Interface_e_Jornada_do-Usuario
 
 ## Um pouco sobre a intenção da atividade da aula "Wireframe Mobile:Tarefa de usuário, jornada de usabilidade"
+# 🎓 Plataforma do Estudante: Educação & Rotina Acadêmica
 
-# 🩺 UX Case: Agendamento de Saúde Mental
+> **Desafio UX:** Organizar grandes volumes de informação com clareza, hierarquia e orientação à ação para estudantes universitários.
 
-## Desafio: Simplificar a jornada de agendamento psicológico para usuários em estado de vulnerabilidade.
+## 📌 Contexto do Projeto
+O projeto consiste em um sistema acadêmico digital que centraliza disciplinas, prazos e entregas. O foco principal é resolver a dor do estudante que se sente perdido em meio a tantas datas e materiais dispersos.
 
-# 📋 O Problema
+## 👤 O Usuário
+*   **Perfil:** Universitário desorganizado e sobrecarregado.
+*   **Necessidade:** Identificar rapidamente o que precisa ser entregue na semana e realizar o envio sem fricção.
+*   **Contexto:** Pouco tempo disponível e alta carga cognitiva.
 
-Em um ecossistema complexo como um app de plano de saúde (com carteira digital, exames e reembolsos), a tarefa crítica de encontrar suporte emocional muitas vezes se perde em menus extensos. O usuário, já sobrecarregado, encontra fricção onde deveria encontrar acolhimento.
+## 🚀 Solução de Design
+A interface foi projetada para reduzir o estresse do aluno através de:
+1.  **Hierarquia de Prazos:** Visualização imediata do que vence "Hoje" e "Nesta Semana".
+2.  **Centralização de Informação:** Disciplinas e atividades em um único dashboard.
+3.  **Foco na Ação:** Fluxo simplificado para que a tarefa principal (**descobrir e enviar atividade**) seja concluída com o mínimo de cliques possível.
 
-# 👤 Persona
+## 🛠️ Funcionalidades Principais
+*   **Dashboard Semanal:** Filtro inteligente de atividades com prazos próximos.
+*   **Gestão de Disciplinas:** Acesso rápido a materiais e fóruns de discussão.
+*   **Sistema de Entrega (Upload):** Área intuitiva para envio de arquivos com confirmação de status.
+*   **Indicadores de Progresso:** Feedback visual sobre o que já foi concluído.
 
-Perfil: Adulto, rotina exaustiva.
+## 🎨 Protótipo
+O design foi estruturado no Figma, focando em uma interface limpa e funcional.
 
-Estado Emocional: Vulnerável, ansioso e com baixa tolerância a fluxos confusos.
-
-Necessidade: Rapidez e clareza. Ele não quer "navegar", ele quer ser atendido.
-
-# 🛠 A Solução
-
-O foco do projetofoi reduzir a carga cognitiva através de:
-
-Acesso Prioritário: Atalho na home para "Saúde Mental".
-
-Filtros Inteligentes: Seleção rápida por abordagem, data e modalidade (presencial/online).
-
-Fluxo de 3 Cliques: Redução drástica das etapas entre a busca e a confirmação.
-
-# 🚀 Funcionalidades Chave
-
-Agendamento Expresso: Filtro de disponibilidade imediata.
-
-Perfil Humanizado: Informações claras sobre a especialidade do psicólogo.
-
-Confirmação Minimalista: Menos formulários, mais ação.
-
-# 📈 Impacto Esperado
-
-Redução da taxa de abandono no fluxo de agendamento.
-
-Aumento do NPS (Net Promoter Score) relacionado aos serviços de saúde mental.
-
-Melhoria na percepção de cuidado e agilidade da marca.
-
-# Link da atividade: 
-
-https://www.figma.com/design/jkLtAGFIH8hFQ9CU8Cjq5Y/Untitled?node-id=0-1&p=f&t=40pJ2iqbJuAewSSi-0
+📍 **[Acesse o Protótipo no Figma](https://www.figma.com)**
