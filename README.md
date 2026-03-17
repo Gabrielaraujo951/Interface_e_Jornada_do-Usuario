@@ -28,4 +28,4 @@ A interface foi projetada para reduzir o estresse do aluno através de:
 ## 🎨 Protótipo
 O design foi estruturado no Figma, focando em uma interface limpa e funcional.
 
-📍 **[Acesse o Protótipo no Figma]([https://www.figma.com](https://www.figma.com/design/WHHZdsBQoJ5CTw2PYWpPep/Sem-t%C3%ADtulo?node-id=0-1&t=aKTXUO8WSX48OA4L-1))**
+📍 **[Acesse o Protótipo no Figma] ([https://www.figma.com](https://www.figma.com/design/WHHZdsBQoJ5CTw2PYWpPep/Sem-t%C3%ADtulo?node-id=0-1&t=aKTXUO8WSX48OA4L-1))**
